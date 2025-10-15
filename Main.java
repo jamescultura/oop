@@ -1,4 +1,4 @@
-
+// Main.java
 import java.io.*;
 import java.time.LocalDate;
 import java.util.*;
@@ -84,10 +84,10 @@ public class Main {
             System.out.println("Error reading transactions.txt: " + e.getMessage());
         }
     }
-       //users and books 
+    
     private void createDefaultUsers() {
         users.add(new User("U001", "John Doe", "pass123", "user"));
-        users.add(new User("U002", "ane Smith", "abc123", "user"));
+        users.add(new User("U002", "Jane Smith", "abc123", "user"));
         users.add(new User("A001", "Admin", "admin123", "admin"));
         saveUsers();
     }
