@@ -1,3 +1,0 @@
-1,U001,John Doe,pass123,user
-2,U002,Jane Smith,abc123,user
-3,A001,Admin,admin123,admin
