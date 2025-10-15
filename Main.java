@@ -86,9 +86,9 @@ public class Main {
     }
        //users and books 
     private void createDefaultUsers() {
-        users.add(new User("1", "james", "123", "user"));
-        users.add(new User("2", "cultura", "123", "user"));
-        users.add(new User("3", "saldon", "123", "admin"));
+        users.add(new User("U001", "John Doe", "pass123", "user"));
+        users.add(new User("U002", "ane Smith", "abc123", "user"));
+        users.add(new User("A001", "Admin", "admin123", "admin"));
         saveUsers();
     }
     
