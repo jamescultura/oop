@@ -1,4 +1,0 @@
-U001,John Doe,pass123,user
-U002,Jane Smith,abc123,user
-A001,Admin,admin123,admin
-U003,James,123,admin
